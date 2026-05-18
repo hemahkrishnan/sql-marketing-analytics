@@ -1,5 +1,5 @@
 -- NOTE: Run this in your Mac terminal to open the database (not a SQL command)
-sqlite3 -header -column ~/Downloads/campaigns.db
+-- sqlite3 -header -column ~/Downloads/campaigns.db
 
 -- Challenge 1: Select all campaigns
 SELECT *
